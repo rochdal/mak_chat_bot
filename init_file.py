@@ -2,7 +2,7 @@ from aiogram import types
 
 # t.me/my_uid_zero_bot - ссылка на бота
 
-token = "7493419613:AAG0HazDeXFWSjppyMZ5SXvEEvakmWmQ9F0"
+token = "7493419613:AAGfdf0HazDeXFWSjppyMZ5S5gfdXvEEvakmWmQ9F0"
 
 ##############################################################################################
 
